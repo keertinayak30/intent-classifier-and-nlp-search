@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+intent_model_v2/
+intent_model_v2_pt/
+place_intent_data.csv
+place_intent_data_clean.csv
+.ipynb_checkpoints/
